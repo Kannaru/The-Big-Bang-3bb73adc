@@ -1,0 +1,2 @@
+CREATE DATABASE sterrenstelsel;
+CREATE DATABASE sys;
